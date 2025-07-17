@@ -10,6 +10,6 @@
 </p>
 
 <p align="center">
-	<b>Nebulosa</b> is a space-inspired color scheme designed with lo-fi aesthetics and chill cosmic vibes in mind. It comes in two palettes <b>void</b> and <b>flare</b>. Built for developers who love quiet beauty and visual harmony in their tools. Use it freely across terminals, editors, dashboards — wherever you need a touch of the cosmos.
+	<b>Nebulosa</b> is a space-inspired color scheme designed with lo-fi aesthetics and chill cosmic vibes in mind. It comes in two palettes <b>void</b> and <b>solar</b>. Built for developers who love quiet beauty and visual harmony in their tools. Use it freely across terminals, editors, dashboards — wherever you need a touch of the cosmos.
 </p>
 
